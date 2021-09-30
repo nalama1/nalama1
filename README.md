@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexiscro
-- 👀 I’m interested in ... technology as asp.net mvc, core, JavaScript, AI, machine learning....
+- 👀 I’m interested in ... technology as asp.net mvc, core, blazor, razor pages, JavaScript, AI, machine learning....
 - 🌱 I’m currently learning ... machine learning
-- 💞️ I’m looking to collaborate on ... machine learning projects
+- 💞️ I’m looking to collaborate on ... asp.net core web api, blazor, machine learning projects
 - 📫 How to reach me ...
 
 <!---
