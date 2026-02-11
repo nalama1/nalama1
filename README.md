@@ -1,3 +1,19 @@
+# Hi there! I'm Nalama 👋
+
+I am an enthusiastic Learner focused on **Cloud Computing** and **IT**. 
+Currently, I am expanding my knowledge through **AWS Educate**.
+
+### 🚀 My Cloud Achievements:
+| Getting Started with Security | Getting Started with Storage |
+| :---: | :---: |
+| ![Security](https://www.credly.com/badges/0105b506-3286-4b3f-95e6-192e9ed4e97f/public_url) | ![Storage](https://www.credly.com/badges/a5344cf2-60e2-444c-bb90-cd12936ebe0f/public_url) |
+
+[Link para verificar mis insignias en Credly](https://www.credly.com/users/lorena-ct)
+ 
+
+---
+
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -6,7 +22,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-# 👋 Hi, I’m Nalama  
+
 
 💻 **Software Developer | .NET | SQL | AI & Machine Learning Enthusiast**  
 
