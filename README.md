@@ -3,13 +3,14 @@
 I am an enthusiastic Learner focused on **Cloud Computing** and **IT**. 
 Currently, I am expanding my knowledge through **AWS Educate**.
 
-### 🚀 My Cloud Achievements:
+
+ ### 🚀 My Cloud Achievements:
 | Getting Started with Security | Getting Started with Storage |
 | :---: | :---: |
-| ![Security](https://www.credly.com/badges/0105b506-3286-4b3f-95e6-192e9ed4e97f/public_url) | ![Storage](https://www.credly.com/badges/a5344cf2-60e2-444c-bb90-cd12936ebe0f/public_url) |
+| <img src="aws_educate_security.png" width="150"> | <img src="aws_educate_storage.png" width="150"> |
 
-[Link para verificar mis insignias en Credly](https://www.credly.com/users/lorena-ct)
- 
+ [Verify my badges on Credly](https://www.credly.com/users/lorena-ct)
+
 
 ---
 
