@@ -9,7 +9,7 @@ Currently, I am expanding my knowledge through **AWS Educate**.
 | :---: | :---: | :---: |
 | <img src="aws_educate_security.png" width="150"> | <img src="aws_educate_storage.png" width="150"> | <img src="aws_educate_compute.png" width="150"> |
 
- [Verify my badges on Credly](https://www.credly.com/users/lorena-ct)
+ [Verify my badges on Credly](https://www.credly.com/users/lorena-cujilema)
 
 
 ---
