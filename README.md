@@ -5,9 +5,9 @@ Currently, I am expanding my knowledge through **AWS Educate**.
 
 
  ### 🚀 My Cloud Achievements:
-| Getting Started with Security | Getting Started with Storage | Getting Started with Compute |
-| :---: | :---: | :---: |
-| <img src="aws_educate_security.png" width="150"> | <img src="aws_educate_storage.png" width="150"> | <img src="aws_educate_compute.png" width="150"> |
+| Getting Started with Security | Getting Started with Storage | Getting Started with Compute | Getting Started with Networking |
+| :---: | :---: | :---: | :---: |
+| <img src="aws_educate_security.png" width="150"> | <img src="aws_educate_storage.png" width="150"> | <img src="aws_educate_compute.png" width="150"> | <img src="aws_educate_networking.png" width="150"> |
 
  [Verify my badges on Credly](https://www.credly.com/users/lorena-dev)
 
