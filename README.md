@@ -1,6 +1,6 @@
 # Hi there! I'm Nalama 👋
 
-I am an enthusiastic Learner focused on **Cloud Computing** and **IT**. 
+Software Developer focused on **Cloud Computing**, **.NET** and **Data Engineering**.
 Currently, I am expanding my knowledge through **AWS Educate**.
 
 
